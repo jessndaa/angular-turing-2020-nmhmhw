@@ -30,7 +30,7 @@ export class AppComponent {
         c = y
       }
     }
-    
+     
     return c;
   }
 }
